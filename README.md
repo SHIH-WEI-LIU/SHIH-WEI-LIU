@@ -1,3 +1,4 @@
+![git自我介紹](https://user-images.githubusercontent.com/108851367/178113657-f75943e6-3daf-432b-9e23-24f4c10b13dd.gif)
 ### Hi there 👋
 
 <!--
